@@ -5,8 +5,8 @@ spring:
   datasource:
     driver-class-name: org.mariadb.jdbc.Driver
     url: jdbc:mariadb://localhost:3306/jwtproject
-    username: yongjin
-    password: 8962
+    username: 
+    password: 
     jpa:
       database : mariadb
       database-platform: org.hibernate.dialect.MariaDBDialect
